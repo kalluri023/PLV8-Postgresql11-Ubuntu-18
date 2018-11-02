@@ -1,5 +1,5 @@
 # PLV8 2.3.8 для Postgresql 11, ubuntu 18 x64.
-## postgresql10-plv8-2.3.7-ubuntu18
+## PLV8-Postgresql11-Ubuntu-18
 Должен быть установлен libc++-dev 
 ```
 sudo apt-get install libc++-dev
