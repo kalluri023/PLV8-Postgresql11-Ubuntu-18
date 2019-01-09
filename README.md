@@ -28,3 +28,5 @@ SELECT plv8_version();
 ```
 пользуемся
 
+@@thnaks I have followed the same thing. but I am facing issues help me 
+ERROR:  could not load library "/usr/lib/postgresql/11/lib/plv8-2.3.8.so": libc++abi.so.1: cannot open shared object file: No such file or directory
